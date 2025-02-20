@@ -1,5 +1,5 @@
 # 💫 About Me:
-exploring front-end, mobile sometime
+exploring front-end, mobile sometimes
 
 
 ## 🌐 Socials:
